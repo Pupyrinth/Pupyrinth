@@ -24,9 +24,9 @@ Hi 👋 I'm Luna
 
 ## Socials & Contact
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/249158065817911298)
-[![Email](https://img.shields.io/badge/EMail-F06B66?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:contact@aethrexal.dev)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aethrexal)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Aethrexal)
+[![Email](https://img.shields.io/badge/EMail-F06B66?style=for-the-badge&logo=Mail.Ru&logoColor=white)](mailto:contact@pupyrinth.dev)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pupyrinth)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Pupyrinth)
 
 <br>
 
@@ -55,12 +55,12 @@ Hi 👋 I'm Luna
 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br>
 
 ## Learning
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![NuxtJS](https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=white)
 
@@ -68,11 +68,11 @@ Hi 👋 I'm Luna
 
 ## Stats
 
-![Visitor Count](https://profile-counter.glitch.me/Aethrexal/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Pupyrinth/count.svg)
 
-![Aethrexal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aethrexal&show_icons=true&theme=radical)
+![Pupyrinth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pupyrinth&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aethrexal&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Pupyrinth&theme=radical)
 
 <br>
 

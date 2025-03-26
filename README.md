@@ -6,7 +6,7 @@ Hi 👋 I'm Luna
 - 😄 Pronouns: She/Her
 - ⚡ Fun facts:
   - I'm secretly an AI 🤖
-  - I use Bazzite btw
+  - I use Arch btw
   - I love the shields
 
 <br>
@@ -32,7 +32,7 @@ Hi 👋 I'm Luna
 
 ## Systems
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 <br>
 
